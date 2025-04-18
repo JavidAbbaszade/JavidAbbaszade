@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javid Abbaszade</h1>
 <h3 align="center">A Passionate Data Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JavidAbbaszade](https://github.com/JavidAbbaszade)
-
 - 📫 How to reach me **jvdbbszd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
